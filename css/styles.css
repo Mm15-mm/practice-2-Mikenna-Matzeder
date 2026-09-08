@@ -1,3 +1,10 @@
 body {
-    background-color: aqua;
+    background-color: aliceblue;
+    color:black;
+}
+nav {
+  background-color: rgb(222, 199, 72);
+    color:black;
+    border: 6px solid black;
+
 }
