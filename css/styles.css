@@ -7,3 +7,17 @@ nav {
     color:black;
     border: 6px solid black;
 }
+
+  header {
+    background-color: rgb(47, 40, 184);
+    color:rgb(250, 248, 248);
+    border: 6px solid black;
+} 
+img {
+    width: 420px;
+    height: 260px;
+    border: 6px solid aliceblue;
+}
+h1 {
+    color:yellow;
+}
