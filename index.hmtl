@@ -10,5 +10,14 @@
          <nav>
             <p>About • The idea • The Workshop • The End • Sources</p>
          </nav>
+         <header>
+         <h1>The Bauhaus</h1>
+         <p>A German art school that ran for the fourteen years, was shut down by politics, and still descides what most of the things around you look like.</p>
+         <p>Below is the Dessau buliding, designed by Walter Gropius in 1925. Steel frame, glass curtain wal, and the name set vertically in sans serif down the corner.</p>
+         <img src="images/"bauhaus-dessau.jpg" alt="the bauhaus building">
+
+
+
+        </header>
     </body>
 </html>
